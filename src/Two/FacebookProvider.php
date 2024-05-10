@@ -18,7 +18,7 @@ class FacebookProvider extends AbstractProvider implements ProviderInterface
      *
      * @var string
      */
-    protected $version = 'v3.3';
+    protected $version = 'v19.0';
 
     /**
      * The user fields being requested.
